@@ -9,10 +9,10 @@ A brief description of what this project does and what problem it solves.
 
 ## Installation
 
-1. Clone the repo: '''git clone https://github.com/rileyBreske/dozerReactNative.git'''
-2. Install Expo CLI: '''npm install -g expo-cli'''
-3. Install project dependencies: '''npm install'''
-4. Start the development server: '''expo start'''
+1. Clone the repo: 'git clone https://github.com/rileyBreske/dozerReactNative.git'
+2. Install Expo CLI: 'npm install -g expo-cli'
+3. Install project dependencies: 'npm install'
+4. Start the development server: 'expo start'
 
 ## Usage
 
